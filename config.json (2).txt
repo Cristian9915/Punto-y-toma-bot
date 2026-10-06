@@ -1,0 +1,81 @@
+{
+  "negocio": "Punto y Toma",
+  "dueno": "Cristian C.",
+  "mensaje_bienvenida": "¡Hola! 👋 Soy el asistente virtual de *Punto y Toma* ⚡\n\n¿En qué te puedo ayudar hoy?",
+  "opciones_menu": [
+    {
+      "id": "foquito",
+      "titulo": "💡 Cambiar foquito / lámpara",
+      "desc": "Dicroica, LED, galponera"
+    },
+    {
+      "id": "tecla",
+      "titulo": "🔘 Cambiar tecla / punto",
+      "desc": "Tecla simple, doble, combinada"
+    },
+    {
+      "id": "toma",
+      "titulo": "🔌 Cambiar tomacorriente",
+      "desc": "Simple, doble, con USB"
+    },
+    {
+      "id": "zapatilla",
+      "titulo": "🔧 Armar zapatilla / bastidor",
+      "desc": "Armado completo de bastidor"
+    },
+    {
+      "id": "ventilador",
+      "titulo": "🌀 Instalar ventilador / aplique",
+      "desc": "Ventilador de techo, apliques"
+    },
+    {
+      "id": "otro",
+      "titulo": "✏️ Otro trabajo / consulta",
+      "desc": "Contame qué necesitas"
+    }
+  ],
+  "precios": {
+    "foquito": {
+      "base": 5000,
+      "por_unidad": 2500,
+      "altura_extra": 4000,
+      "nombre": "Cambio de foquito/lámpara"
+    },
+    "tecla": {
+      "base": 6000,
+      "por_unidad": 3500,
+      "altura_extra": 0,
+      "nombre": "Cambio de tecla/punto"
+    },
+    "toma": {
+      "base": 6500,
+      "por_unidad": 3500,
+      "altura_extra": 0,
+      "nombre": "Cambio de tomacorriente"
+    },
+    "zapatilla": {
+      "base": 8000,
+      "por_unidad": 4000,
+      "altura_extra": 0,
+      "nombre": "Armado de zapatilla/bastidor"
+    },
+    "ventilador": {
+      "base": 15000,
+      "por_unidad": 8000,
+      "altura_extra": 5000,
+      "nombre": "Instalación ventilador/aplique"
+    },
+    "otro": {
+      "base": 0,
+      "por_unidad": 0,
+      "altura_extra": 0,
+      "nombre": "Trabajo a cotizar"
+    }
+  },
+  "zonas": {
+    "vgb": 0,
+    "reartes": 2000,
+    "santa_rosa": 3000,
+    "villa_ciudad": 2500
+  }
+}
