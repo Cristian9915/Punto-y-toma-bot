@@ -1,0 +1,13 @@
+{
+  "servicios": [],
+  "viaticos": [
+    {
+      "nombre": "Villa General Belgrano",
+      "precio": 0
+    },
+    {
+      "nombre": "Santa Rosa",
+      "precio": 5000
+    }
+  ]
+}
